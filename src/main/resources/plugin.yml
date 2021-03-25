@@ -1,0 +1,3 @@
+name: Overbot
+main: cc.overbot.Plugin
+version: 1.0
